@@ -7,6 +7,8 @@ A program with GUI to create dictionaries for languagetool.org API. A dictionary
 
 You can find languagetool's official repository [here.](https://github.com/languagetool-org/languagetool)
 
+If you just want to run it, download `dictionarybuilder.jar`. Then a simple `java -jar dictionarybuilder.jar` will make it run.
+
 GUI Preview:
 
 ![preview](https://i.imgur.com/4mOGiCT.png)
